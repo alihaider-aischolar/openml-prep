@@ -29,10 +29,10 @@ This repo demonstrates my understanding of:
 
 
 
-notebooks/ # Jupyter research notebooks
-scripts/ # Utility scripts (download, benchmarking, helpers)
-reports/ # Experimental notes & results
-requirements.txt # Dependency list
+notebooks/       # Jupyter research notebooks  
+scripts/         # Utility scripts (download, benchmarking, helpers)  
+reports/         # Experimental notes & results  
+requirements.txt # Dependency list  
 
 
 
