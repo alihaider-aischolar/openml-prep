@@ -26,10 +26,15 @@ This repo demonstrates my understanding of:
 ---
 
 ## 📂 Repository Structure
+
+
+
 notebooks/ # Jupyter research notebooks
 scripts/ # Utility scripts (download, benchmarking, helpers)
 reports/ # Experimental notes & results
 requirements.txt # Dependency list
+
+
 
 ---
 
